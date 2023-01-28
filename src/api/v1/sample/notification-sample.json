@@ -1,0 +1,20 @@
+[
+	{
+		"id":1,
+		"titlie":"Doctor teleconsultaion is completed",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Potenti integer vulputate sit scelerisque scelerisque.",
+		"data":null,
+		"link":"",
+		"is_read":0,
+		"create_at":"2022-06-09 14:35:11"
+	},
+	{
+		"id":2,
+		"titlie":"Nurse visit completed",
+		"description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Potenti integer vulputate sit scelerisque scelerisque.",
+		"data":"",
+		"link":"https://www.google.co.in",
+		"is_read":1,
+		"create_at":"2022-06-20 06:44:13"
+	}
+]

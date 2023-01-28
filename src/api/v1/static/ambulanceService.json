@@ -1,0 +1,16 @@
+{
+	"title" : "",
+	"layout" : "Banner",
+	"link": "",
+	"tag":"",
+	"view_more": false,
+	"cards" : [
+		{
+			"banner_image":"https://fasttrack.acolabz.com/backend/resources/services/ambulance-banner.png",
+			"header":"Ambulance Service",
+			"title":"",
+			"tag":"Book Now",
+			"link":""			
+		}
+	]
+}

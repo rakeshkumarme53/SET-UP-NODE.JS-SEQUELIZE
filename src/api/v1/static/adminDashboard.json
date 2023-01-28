@@ -1,0 +1,61 @@
+{
+    "new_bookings":{
+        "received":10,
+        "confirmed":6,
+        "not_confirmed":3,
+        "rejected":1
+    },
+    "scheduled_bookings":{
+        "scheduled":4,
+        "completed":3,
+        "pending":1,
+        "cancelled":0
+    },
+    "overall_summary":{
+        "bookings":10,
+        "completed":6,
+        "revenue":3,
+        "payout":1
+    },
+    "pending_activities":{
+        "bookings":4,
+        "approvals":3,
+        "query":1,
+        "pending_payout":0
+    },
+    "user_summary":{
+        "doctors":12,
+        "nurses":6,
+        "ambulances":6,
+        "patients":80
+    },
+    "other_summary":{
+        "specializations":4,
+        "homecare_services":3,
+        "locations":1,
+        "ambulance_types":0
+    },
+    "booking_received_completed":[
+        {
+        "date":"01-01-2022",
+        "received":20,
+        "completed":18
+    }
+],
+"revenue_payouts":[{
+    "date":"01-01-2022",
+    "revenue":56000,
+    "payout":44000
+}],
+"booking_breakup":[{
+    "teleconsultation":1500,
+    "homecare":400,
+    "ambulance":50
+}],
+"revenue_breakup":[{
+    "teleconsultation":75000,
+    "homecare":4000,
+    "ambulance":5000
+}]
+
+}

@@ -1,0 +1,26 @@
+[
+	{
+		"transaction_id":1,
+		"transaction_date":"2022-06-20 06:44:13",
+		"amount":"200.00",
+		"status": "Paid",
+		"doctor": {
+			"id":1,
+			"name":"Sonali",
+			"specialization":"General Physician",
+			"profile_pic":"http://v2.fasttrackhealthcare.in/backend/resources/profile/sonali.png"
+		}
+	},
+	{
+		"transaction_id":2,
+		"transaction_date":"2022-06-09 06:44:13",
+		"amount":"399.00",
+		"status": "Cancelled",
+		"doctor": {
+			"id":2,
+			"name":"Kundan",
+			"specialization":"Long term nurse",
+			"profile_pic":"http://v2.fasttrackhealthcare.in/backend/resources/profile/kundan.png"
+		}
+	}
+]

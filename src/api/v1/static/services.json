@@ -1,0 +1,30 @@
+{
+	"title" : "Health Care Services",
+	"layout" : "RectangularCard",
+	"link": "",
+	"tag":"",
+	"view_more": false,
+	"cards" : [
+		{
+			"banner_image":"https://fasttrack.acolabz.com/backend/resources/services/teleconsult.png",
+			"header":"Teleconsultation",
+			"title":"Book",
+			"tag":"",
+			"link":""			
+		},
+		{
+			"banner_image":"https://fasttrack.acolabz.com/backend/resources/services/homecare.png",
+			"header":"Home Care",
+			"title":"Book",
+			"tag":"",
+			"link":""			
+		},
+		{
+			"banner_image":"https://fasttrack.acolabz.com/backend/resources/services/ambulance.png",
+			"header":"Ambulance",
+			"title":"Book",
+			"tag":"",
+			"link":""			
+		}
+	]
+}

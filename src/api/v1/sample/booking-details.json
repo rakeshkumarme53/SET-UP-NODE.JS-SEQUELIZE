@@ -1,0 +1,16 @@
+{
+	"id":1,
+	"status":"Booked",
+	"paid_amount":100,
+	"service_type":"Doctor",
+	"service_provider_name":"Sonali",
+	"speciality":"Dentist",
+	"experience":"9 Years of experience",
+	"profile_pic":"",
+	"order_detail":{
+		"id":1,
+		"gateway_name":"UPI",
+		"tran_id":"20220612111212800110168393103784966",
+		"transaction_date":"2022-06-12 16:10:44"
+	}
+}

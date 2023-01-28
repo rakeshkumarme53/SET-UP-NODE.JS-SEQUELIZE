@@ -1,0 +1,27 @@
+[
+	{
+		"id":1,
+		"booking_date":"2022-06-09 14:35:11",
+		"paid_amount":100,
+		"service_type":"Doctor",
+		"service_provider_name":"Sonali",
+		"speciality":"Dentist",
+		"profile_pic":"",
+		"docs" : [
+			{
+				"doc_type":"Prescription",
+				"doc_url":""
+			}
+		]
+	},
+	{
+		"id":2,
+		"booking_date":"2022-06-13 19:14:35",
+		"paid_amount":399,
+		"service_type":"Doctor",
+		"service_provider_name":"Kundan",
+		"speciality":"Long Term Nurse",
+		"profile_pic":"",
+		"docs" : null
+	}
+]
